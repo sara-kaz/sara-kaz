@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 - **Database:** MySQL, SQL.
 
 ## Training and Certification
+- .Net Full Stack Foundation
 - Six Sigma White Belt
 - Udacity Future Work in Digital: Data Analysis
 - Udacity Future Work in Digital: Web Development
