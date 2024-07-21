@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 ## Strongest Skills
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) ![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000) ![MATLAB](https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000) ![Ardunio](https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000) ![Microsoft](https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000) ![Data Analysis](https://img.icons8.com/?size=100&id=7kZSmEyroNI0&format=png&color=000000)
 ## Projects
-### Smart Prosthetic Arm (*C++*)
+### Smart Prosthetic Arm (*C/C++*)
 - Integrated a foot controller using Bluetooth technology.
 - Utilized wireless communication to connect foot controller microcontrollers.
 ### AES-128 Algorithm Implementation (*Verilog*)
