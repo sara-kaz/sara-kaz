@@ -74,7 +74,8 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 ✉️ Email: sarakhaled.kaz@gmail.com
 <div align="center">
   
-[![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=darkpng&color=0000000)](https://www.linkedin.com/in/sara-khaled-9a3a741ab/)
+  
+  [![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/sara-khaled-9a3a741ab/)
 [![Paper](https://img.icons8.com/?size=55&id=x2npT763PzXe&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
 
 </div>
