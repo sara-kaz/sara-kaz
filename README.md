@@ -60,12 +60,15 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 - Udacity Future Work in Digital: Web Development
 - Udacity Full Stack Developer Track
 
-## :fire: My Stats :
+## My Stats 
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sara-kaz&theme=transparent)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sara-kaz&theme=buefy&card_width=650&hide_border=true)](https://git.io/streak-stats)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-kaz&layout=donut&theme=buefy&card_width=300&card_height=300&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-kaz&show_icons=true&theme=buefy&card_width=300&card_height=300&hide_rank=true&hide_border=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-kaz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ## Contact Me
