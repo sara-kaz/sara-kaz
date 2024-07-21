@@ -1,6 +1,7 @@
 <div align="center">
-
+  
 # Hi there, I'm Sara Khaled! 👋
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
   
@@ -14,32 +15,44 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 - 🏅 Extracurricular Activities: Member of IEEE-Eta Kappa Nu (IEEE-HKN) Honor Society, Member of The Honor Society of Phi Kappa Phi.
 - 📅 Graduation: May 2024.
 
-## Strongest Skills
-![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) ![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000) ![MATLAB](https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000) ![Ardunio](https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000) ![Microsoft](https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000) ![Data Analysis](https://img.icons8.com/?size=100&id=7kZSmEyroNI0&format=png&color=000000)
+## Programming Languages
+<div>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=0000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="55"/> 
+</div>
+
+## Software Tools
+<div>
+  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" width="55"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="55"/> <img src="https://img.icons8.com/?size=100&id=gYRR6rys6REq&format=png&color=000000" width="55"/> <img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" width="85"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Multisim_logo.jpg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="100"/> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="55"/> 
+</div>
+
+## Database
+<div>
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="55"/> 
+</div>
+
+## Technical Skills
+- **Programming Languages:** Python, Java, JavaFX, C, C++, HTML, CSS, VHDL, Verilog, System Verilog.
+- **Software Tools:** Arduino IDE, Microsoft Office, Figma, JIRA, Confluence, Azure DevOps, MATLAB, Multisim, Pspice, Google Colaboratory, Jupyter.
+- **Hardware:** ARM7 LPC2148 Board, Terasic DE10-Lite, Xilinx FPGA board, ESP32, SEEED.
+- **Database:** MySQL, SQL, Exel, Microsoft Access.
+
 ## Projects
-### Smart Prosthetic Arm (*C/C++*)
+### [Smart Prosthetic Arm](https://github.com/sara-kaz/Smart-Prosthesis-7th-Cohort) (*C/C++*)
 - Integrated a foot controller using Bluetooth technology.
 - Utilized wireless communication to connect foot controller microcontrollers.
-### AES-128 Algorithm Implementation (*Verilog*)
+### [AES-128 Algorithm Implementation](https://github.com/sara-kaz/AES-128) (*Verilog*)
 - Designed and coded the AES-128 algorithm focusing on efficiency and robustness.
 - Aimed to provide secure encryption for various applications.
 ### Parkinson’s Disease Diagnosis using Machine Learning (*MATLAB*)
 - Developed a machine learning model for early diagnosis using voice recordings.
 - Utilized techniques to analyze and classify voice features indicative of Parkinson’s Disease.
 - [Published a research paper on the findings.](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
-### Lost and Found System (*Java/JavaFX*)
+### [Lost and Found System](https://github.com/sara-kaz/Lost-Found) (*Java/JavaFX*)
 - Developed a user-friendly interface for reporting and claiming lost items.
 - Implemented database functionality for efficient record management.
 ### Traffic Light System (*VHDL*)
 - Designed and implemented a traffic light system using VHDL and sensors.
 - Developed algorithms to optimize traffic flow based on real-time sensor data.
-
-## Technical Skills
-- **Programming Languages:** Python, Java, JavaFX, C, C++, HTML, CSS, VHDL, Verilog, System Verilog.
-- **Software Tools:** Arduino IDE, Microsoft Office, Figma, JIRA, Confluence, Azure DevOps, MATLAB, Multisim, Pspice.
-- **Hardware:** ARM7 LPC2148 Board, Terasic DE10-Lite, Xilinx FPGA board, ESP32, SEEED.
-- **Database:** MySQL, SQL.
-
 ## Training and Certification
 - .Net Full Stack Foundation
 - Six Sigma White Belt
@@ -47,14 +60,22 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 - Udacity Future Work in Digital: Web Development
 - Udacity Full Stack Developer Track
 
+## :fire: My Stats :
+<div align="center">
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sara-kaz&theme=transparent)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-kaz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ## Contact Me
 📞 Phone: 424-460-9975
 
 ✉️ Email: sarakhaled.kaz@gmail.com
 <div align="center">
   
-[![LinkedIn: Sara Khaled](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/sara-khaled-9a3a741ab/)
-[![Paper](https://img.icons8.com/?size=100&id=x2npT763PzXe&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
+[![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=darkpng&color=0000000)](https://www.linkedin.com/in/sara-khaled-9a3a741ab/)
+[![Paper](https://img.icons8.com/?size=55&id=x2npT763PzXe&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
 
 </div>
 
