@@ -1,7 +1,7 @@
 <div align="center">
   
-# Hi there, I'm Sara Khaled! 👋
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi there, I'm Sara Aly! 👋
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA5b3VhMDFyNnhxdnI3aHVlZGg1dmY2cmI2YWRra3k2NGhpYzhjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 </div>
   
