@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 ## About Me
 
 - 🎓 Education: Bachelor of Science in Computer Engineering from California State University, Northridge (CSUN) with a GPA of 3.94.
-- 🌟 Achievements: Dean's List from Fall 2022 to Fall 2023, Magna cum laude, Honor Student, Joe and Nancy Owens Engineering Annual Scholarship recipient (50% Scholarship from AUBH).
+- 🌟 Achievements: Dean's List from Fall 2022 to Fall 2023, Summa Cum Laude, Honor Student, Outstanding senior for the ECE department Award, Joe and Nancy Owens Engineering Annual Scholarship recipient (50% Scholarship from AUBH).
 - 💼 Work Experience: Teacher Assistant at [CSUN](https://w2.csun.edu/), Data Analyst at [Unipal](https://unipal.me/en-bh/), Marketing Intern at [The Nourishers](https://thenourishers.com/).
 - 🏅 Extracurricular Activities: Member of IEEE-Eta Kappa Nu (IEEE-HKN) Honor Society, Member of The Honor Society of Phi Kappa Phi.
 - 📅 Graduation: May 2024.
