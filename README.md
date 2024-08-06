@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 ### [AES-128 Algorithm Implementation](https://github.com/sara-kaz/AES-128) (*Verilog*)
 - Designed and coded the AES-128 algorithm focusing on efficiency and robustness.
 - Aimed to provide secure encryption for various applications.
-### Parkinson’s Disease Diagnosis using Machine Learning (*MATLAB*)
+### [Parkinson’s Disease Diagnosis using Machine Learning](https://github.com/sara-kaz/Machine-Learning) (*MATLAB*)
 - Developed a machine learning model for early diagnosis using voice recordings.
 - Utilized techniques to analyze and classify voice features indicative of Parkinson’s Disease.
 - [Published a research paper on the findings.](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
