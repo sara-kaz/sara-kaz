@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 
 ## Technical Skills
 - **Programming Languages:** Python, Java, JavaFX, C, C++, HTML, CSS, VHDL, Verilog, System Verilog.
-- **Software Tools:** Arduino IDE, Microsoft Office, Figma, JIRA, Confluence, Azure DevOps, MATLAB, Multisim, Pspice, Google Colaboratory, Jupyter.
+- **Software Tools:** Arduino IDE, Microsoft Office, Figma, JIRA, Confluence, Azure DevOps, MATLAB, Multisim, Pspice, Google Colaboratory, Jupyter, Visual Studio, Visual Studio Code.
 - **Hardware:** ARM7 LPC2148 Board, Terasic DE10-Lite, Xilinx FPGA board, ESP32, SEEED.
 - **Database:** MySQL, SQL, Exel, Microsoft Access.
 
