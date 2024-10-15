@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 
 ## Database
 <div>
-  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=BEMhRoRy403e&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="55"/> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="55"/>
 </div>
 
 ## Technical Skills
