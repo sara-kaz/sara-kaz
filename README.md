@@ -79,8 +79,9 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 <div align="center">
   
   
-  [![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/sara-khaled-9a3a741ab/)
-[![Paper](https://img.icons8.com/?size=55&id=rp96kyV6bcPL&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
+  [![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/sara-k-aly/)
+  [![Profile: Sara Khaled](https://img.icons8.com/?size=55&id=6GNNJRTADGtC&format=png&color=000000)](https://sara-kaz.github.io/)
+[![Paper](https://img.icons8.com/?size=50&id=rp96kyV6bcPL&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
 
 </div>
 
