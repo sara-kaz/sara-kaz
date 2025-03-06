@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
 ### [Smart Prosthetic Arm](https://github.com/sara-kaz/Smart-Prosthesis-7th-Cohort) (*C/C++*)
 - Integrated a foot controller using Bluetooth technology.
 - Utilized wireless communication to connect foot controller microcontrollers.
+- [Published a research paper on the findings.](https://www.mdpi.com/2227-7080/13/3/98)
 ### [AES-128 Algorithm Implementation](https://github.com/sara-kaz/AES-128) (*SystemVerilog*)
 - Designed and coded the AES-128 algorithm focusing on efficiency and robustness.
 - Aimed to provide secure encryption for various applications.
@@ -81,7 +82,6 @@ Welcome to my GitHub profile! I'm a highly motivated and detail-oriented Compute
   
   [![LinkedIn: Sara Khaled](https://img.icons8.com/?size=55&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/sara-k-aly/)
   [![Profile: Sara Khaled](https://img.icons8.com/?size=50&id=23883&format=png&color=000000)](https://sara-kaz.github.io/)
-[![Paper](https://img.icons8.com/?size=50&id=rp96kyV6bcPL&format=png&color=000000)](https://link.springer.com/chapter/10.1007/978-981-19-7742-8_4)
 
 </div>
 
