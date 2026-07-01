@@ -22,12 +22,6 @@ Welcome to my GitHub! I'm a Computer Engineering M.S. graduate (GPA 4.0, ARCS Fe
 - 🏅 **Memberships:** ARCS Foundation Fellow, IEEE-Eta Kappa Nu (IEEE-HKN), The Honor Society of Phi Kappa Phi.
 - 🌍 **Languages:** English (Fluent), Arabic (Native), Korean (Conversational).
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sara-kaz&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
 ## Skills
 
 <div align="center">
